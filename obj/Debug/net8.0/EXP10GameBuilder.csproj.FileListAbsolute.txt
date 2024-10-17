@@ -1,0 +1,14 @@
+D:\教程\CSharp\EXP10GameBuilder\bin\Debug\net8.0\EXP10GameBuilder.exe
+D:\教程\CSharp\EXP10GameBuilder\bin\Debug\net8.0\EXP10GameBuilder.deps.json
+D:\教程\CSharp\EXP10GameBuilder\bin\Debug\net8.0\EXP10GameBuilder.runtimeconfig.json
+D:\教程\CSharp\EXP10GameBuilder\bin\Debug\net8.0\EXP10GameBuilder.dll
+D:\教程\CSharp\EXP10GameBuilder\bin\Debug\net8.0\EXP10GameBuilder.pdb
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\EXP10GameBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\EXP10GameBuilder.AssemblyInfoInputs.cache
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\EXP10GameBuilder.AssemblyInfo.cs
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\EXP10GameBuilder.csproj.CoreCompileInputs.cache
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\EXP10GameBuilder.dll
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\refint\EXP10GameBuilder.dll
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\EXP10GameBuilder.pdb
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\EXP10GameBuilder.genruntimeconfig.cache
+D:\教程\CSharp\EXP10GameBuilder\obj\Debug\net8.0\ref\EXP10GameBuilder.dll
